@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673971240 source:c:\users\gustav\documents\cooleeah\praktikum datastructure\tubes\dnd.cpp
+	"dnd.h"
+
+1673967648 c:\users\gustav\documents\cooleeah\praktikum datastructure\tubes\dnd.h
+	<iostream>
+
+1673971359 source:c:\users\gustav\documents\cooleeah\praktikum datastructure\tubes\main.cpp
+	"dnd.h"
+
